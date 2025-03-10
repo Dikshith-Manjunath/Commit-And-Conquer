@@ -8,7 +8,7 @@ const LandingPage = () => {
   return (
     <>
       <Navbar />
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-white flex flex-col items-center justify-center p-4">
+      <div className="min-h-screen flex flex-col items-center justify-center p-4">
         <div className="max-w-4xl w-full">
           <h1 className="text-4xl font-bold text-center mb-8 text-gray-800">
             Welcome to Our Platform
